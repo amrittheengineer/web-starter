@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.chat-app {
+  height: 96%;
+  border: 5px solid black;
+  margin: 1%;
+}
+
+#message-box {
+  height: 90%;
+}
+#message-input {
+  height: 5%;
+  margin: 0;
+  padding: 4px;
+  width: 100%;
+  font-size: 32px;
+}
+.my-message {
+  text-align: right;
+  margin-right: 8px;
+}
